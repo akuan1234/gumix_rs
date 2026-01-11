@@ -39,7 +39,7 @@ It resolves the *Scale–Uncertainty Paradox* via a **pixel-wise geometry–unce
 - `eval.py` : evaluate on one dataset
 - `eval_all.py` : evaluate on all datasets
 - `dist_test.sh` : multi-GPU launcher
-- `sam2/`, `dinov3/`, `open_clip/`, `CropFormer/`, `eomt/` : dependencies / integrated modules
+- `sam2/, dinov3/`: dependencies / integrated modules
 - `requirements.txt` : extra python dependencies
 
 ---
@@ -80,32 +80,23 @@ python eval_all.py
 
 
 ## Results
-<p align="center">
+
   <img width="1322" height="359" alt="image" src="https://github.com/user-attachments/assets/aada89d3-00a1-4a4a-b89e-14dfc0138327" />
 
-</p>
-<p align="center">
+
   <img width="649" height="351" alt="image" src="https://github.com/user-attachments/assets/4ee84d1e-bf56-49b5-8075-724de240a3be" />
 
-</p>
-<p align="center">
+
   <img width="646" height="721" alt="image" src="https://github.com/user-attachments/assets/0b59e68c-35b4-4dd8-a55f-275d4fea0f8a" />
 
-</p>
-
-<p align="center">
 
   <img width="1034" height="455" alt="image" src="https://github.com/user-attachments/assets/3bef43fa-0f2f-4e51-b51d-587ffe00ae45" />
 
-</p>
 
-<p align="center">
   <img width="735" height="476" alt="image" src="https://github.com/user-attachments/assets/cefcdb90-1d65-4130-8eae-5aceaddaef97" />
 
 
-</p>
 
-<p align="center">
   <img width="757" height="455" alt="image" src="https://github.com/user-attachments/assets/20774870-6d7c-4b9c-b532-96aab2675c92" />
 
 </p>
