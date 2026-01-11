@@ -10,7 +10,7 @@ It resolves the *Scale–Uncertainty Paradox* via a **pixel-wise geometry–unce
 
 ---
 
-## TL;DR (Numbers)
+## Performance Snapshot (Numbers)
 
 | Setting | Task | Metric | Best non-ours | GUMix-RS | Relative gain |
 |---|---:|---:|---:|---:|---:|
