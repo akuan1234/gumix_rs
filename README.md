@@ -18,10 +18,9 @@ It resolves the *Scale–Uncertainty Paradox* via a **pixel-wise geometry–unce
 | SAM2\_8  | 8 multi-class RS datasets | Avg. mIoU (%) | 35.78 | **40.32** | **+12.7%** |
 | SAM2\_8  | 4 binary extraction RS datasets | Avg. fg-IoU (%) | 23.34 | **26.21** | **+12.3%** |
 
-<p align="center">
+
   <img width="865" height="574" alt="image" src="https://github.com/user-attachments/assets/8b562ca1-dec6-4bcf-81ea-4cbd97326706" />
 
-</p>
 ---
 
 
