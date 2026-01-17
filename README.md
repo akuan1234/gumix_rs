@@ -84,23 +84,24 @@ python eval_all.py
 
 ## Results
 
-  <img width="1322" height="359" alt="image" src="https://github.com/user-attachments/assets/aada89d3-00a1-4a4a-b89e-14dfc0138327" />
-
-
-  <img width="649" height="351" alt="image" src="https://github.com/user-attachments/assets/4ee84d1e-bf56-49b5-8075-724de240a3be" />
-
-
-  <img width="646" height="721" alt="image" src="https://github.com/user-attachments/assets/0b59e68c-35b4-4dd8-a55f-275d4fea0f8a" />
-
-
-  <img width="1034" height="455" alt="image" src="https://github.com/user-attachments/assets/3bef43fa-0f2f-4e51-b51d-587ffe00ae45" />
-
-
-  <img width="735" height="476" alt="image" src="https://github.com/user-attachments/assets/cefcdb90-1d65-4130-8eae-5aceaddaef97" />
+  <img width="2167" height="581" alt="image" src="https://github.com/user-attachments/assets/3809b596-b2e0-43ef-bd60-a3013237ee75" />
 
 
 
-  <img width="757" height="455" alt="image" src="https://github.com/user-attachments/assets/20774870-6d7c-4b9c-b532-96aab2675c92" />
+  <img width="1053" height="573" alt="image" src="https://github.com/user-attachments/assets/20f7dcc7-a24e-4e9b-a266-8272c70faa0f" />
+
+
+
+  <img width="1067" height="1184" alt="image" src="https://github.com/user-attachments/assets/3837c649-b29c-442b-82f2-175031cd47a5" />
+
+
+
+  <img width="1884" height="1245" alt="image" src="https://github.com/user-attachments/assets/8b886431-b36a-4158-9003-3ff9625ada47" />
+
+
+
+  <img width="1891" height="1185" alt="image" src="https://github.com/user-attachments/assets/e91168e2-8fc2-4042-ac87-04b54ce6563f" />
+
 
 </p>
 
